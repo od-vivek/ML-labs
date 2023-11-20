@@ -1,0 +1,1 @@
+Accuracy of 1-NNC is ~ 0.417 and the Accuracy of 3-NNC is ~ 0.389 after implementing the k-Nearest Neighbor Classifier over the wine classification Dataset .

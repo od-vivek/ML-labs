@@ -1,0 +1,1 @@
+-> TO run the code , keep the .py file and the .csv files (test and training both) in the same directory / folder and then run the .py file 
